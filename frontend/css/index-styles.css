@@ -1,0 +1,68 @@
+body {
+    font-family: 'Bodoni Moda', serif;
+}
+
+.menubar {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.afrotitle {
+    text-align: center;
+}
+
+.afrotitle h2 {
+    margin-bottom: 0px;
+}
+
+.afrotitle p {
+    margin-top: 0px;
+}
+
+.afrostory {
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.gender {
+    display: flex;
+    justify-content: center;
+}
+
+.gender p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.firstrowcollectiondisplay {
+    display: flex;
+    width: 100vw;
+}
+
+.firstrowcollectiondisplay figure{
+    width: 47w;
+}
+
+.bag {
+    margin-right: 2px;
+    margin-left: 12px;
+}
+
+.outwear {
+    margin-left: 2px;
+
+}
+
+.firstrowcollectiondisplay figure figcaption{
+    text-align: center;
+}
+
+
